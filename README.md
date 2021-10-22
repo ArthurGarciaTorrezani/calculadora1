@@ -2,4 +2,4 @@
 
 https://tutugt.github.io/calculadora1/
 
-<a href="https://tutugt.github.io/calculadora1/"><img src="img/css3.png" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://tutugt.github.io/calculadora1/"><img src="calc.png" class="media-object  img-responsive img-thumbnail"></a>
