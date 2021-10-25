@@ -33,9 +33,7 @@
         
     }
 
-    .btn:hover{/* quando o mouse passar em cima*/
-        background-color: black;
-    }
+   
 
     #resultado{ /* selecionar o 'id' usa '#'*/
         width: 207px;
